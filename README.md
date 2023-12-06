@@ -1,2 +1,2 @@
-# sql-practice
+# sql-songs
 SQL queries on songs database
